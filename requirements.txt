@@ -1,0 +1,5 @@
+streamlit
+pydantic_ai
+plotly
+pandas
+aiohttp
